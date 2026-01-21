@@ -313,7 +313,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-8">
         <div className="max-w-6xl mx-auto px-6 text-center">
-          <p>  Debaanjan's Portfolio. </p>
+          <p>© 2024 Debanjan;s Portfolio. Built with Next.js & React. </p>
         </div>
       </footer>
     </div>
