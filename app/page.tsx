@@ -313,7 +313,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-8">
         <div className="max-w-6xl mx-auto px-6 text-center">
-          <p>2026 Debaanjan's Portfolio. </p>
+          <p>  Debaanjan's Portfolio. </p>
         </div>
       </footer>
     </div>
