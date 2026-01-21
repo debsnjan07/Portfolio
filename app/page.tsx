@@ -253,7 +253,7 @@ export default function Home() {
                     {project.title}
                   </h4>
                   <a
-                    href={project}
+                    
                     className="text-gray-400 hover:text-gray-600 transition"
                     aria-label={`View ${project.title}`}
                   >
